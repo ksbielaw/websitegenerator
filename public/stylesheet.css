@@ -1,0 +1,37 @@
+#navbar{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	height: 100px;
+	width: 400px;
+}
+
+#buttonform{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	height: 50px;
+	width: 400px;
+}
+
+#twoWord{
+	font-size: 200%;
+	color: blue;
+	display: block;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	height: 50px;
+	width: 400px;
+}
+
+#sitepicture{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	height: 400px;
+	width: 400px;
+}
